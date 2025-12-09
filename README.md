@@ -9,8 +9,6 @@ Currently, I am an **Incoming IT Intern** at **PT. Pharos Indonesia** (NPD Pharm
 
 ### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
 <table>
   <tr>
     <td width="150px"><b>Languages</b></td>
@@ -66,6 +64,7 @@ Currently, I am an **Incoming IT Intern** at **PT. Pharos Indonesia** (NPD Pharm
     </td>
   </tr>
 </table>
+
 ---
 
 ### 📊 GitHub Stats
