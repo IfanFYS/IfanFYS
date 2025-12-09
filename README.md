@@ -29,11 +29,11 @@ Currently, I am an **Incoming IT Intern** at **PT. Pharos Indonesia** (NPD Pharm
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
       <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
       <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-      <br />
       <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
       <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
       <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff" />
     </td>
   </tr>
   <tr>
@@ -69,8 +69,11 @@ Currently, I am an **Incoming IT Intern** at **PT. Pharos Indonesia** (NPD Pharm
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IfanFYS&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IfanFYS&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IfanFYS&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
+  <br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=IfanFYS&theme=radical&no-frame=true&margin-w=15&row=1" alt="trophies" />
 </div>
 
 ---
@@ -78,4 +81,7 @@ Currently, I am an **Incoming IT Intern** at **PT. Pharos Indonesia** (NPD Pharm
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fathanyazidsatriani/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fathanyazidsatriani@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fathanyazidsatriani@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](ifandoodles)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/fathanyazid_s/?hl=en)
+[![LINE](https://img.shields.io/badge/LINE-00C300?logo=line&logoColor=fff)](ifan_satriani)
