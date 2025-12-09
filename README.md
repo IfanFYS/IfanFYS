@@ -9,6 +9,8 @@ Currently, I am an **Incoming IT Intern** at **PT. Pharos Indonesia** (NPD Pharm
 
 ### 🛠️ Tech Stack
 
+### 🛠️ Tech Stack
+
 <table>
   <tr>
     <td width="150px"><b>Languages</b></td>
@@ -28,12 +30,13 @@ Currently, I am an **Incoming IT Intern** at **PT. Pharos Indonesia** (NPD Pharm
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
       <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
+      <br />
       <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
       <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
       <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
       <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff" />
     </td>
   </tr>
   <tr>
@@ -63,7 +66,6 @@ Currently, I am an **Incoming IT Intern** at **PT. Pharos Indonesia** (NPD Pharm
     </td>
   </tr>
 </table>
-
 ---
 
 ### 📊 GitHub Stats
@@ -81,7 +83,8 @@ Currently, I am an **Incoming IT Intern** at **PT. Pharos Indonesia** (NPD Pharm
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fathanyazidsatriani/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fathanyazidsatriani@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](ifandoodles)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/fathanyazid_s/?hl=en)
-[![LINE](https://img.shields.io/badge/LINE-00C300?logo=line&logoColor=fff)](ifan_satriani)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fathanyazidsatriani@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/fathanyazid_s)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ifandoodles)
+[![Line](https://img.shields.io/badge/Line-%2300C300.svg?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/ifan_satriani)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281398696033)
