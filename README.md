@@ -2,7 +2,7 @@
 ## But you can call me Ifan! 😊
 
 ### 👨‍💻 Computer Engineering Student @ Universitas Indonesia
-I am a 6th-semester Computer Engineering student with a strong passion for **Software Engineering**, **IoT/Embedded Systems**, and **Network/Cybersecurity Infrastructure**. I love building full-stack web applications, designing efficient network systems, and tinkering with hardware. Currently, I am an **Engineering Intern** at **PT. Pharos Indonesia** (NPD Pharmalogic Department).
+I am a 6th-semester Computer Engineering student with a strong passion for **Software Engineering**, **IoT/Embedded Systems**, and **Network/Cybersecurity Infrastructure**. I love building full-stack web applications, designing computer network systems, and tinkering with hardware. Currently, I am an **Engineering Intern** at **PT. Pharos Indonesia** (NPD Pharmalogic Department).
 
 ---
 
@@ -58,7 +58,6 @@ I am a 6th-semester Computer Engineering student with a strong passion for **Sof
     <td width="150px"><b>Other Tools & Design</b></td>
     <td>
       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
       <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
       <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
