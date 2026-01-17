@@ -2,7 +2,7 @@
 ## But you can call me Ifan! 😊
 
 ### 👨‍💻 Computer Engineering Student @ Universitas Indonesia
-I am a 6th-semester Computer Engineering student with a strong passion for **Software Engineering**, **IoT/Embedded Systems**, and **Network/Cybersecurity Infrastructure**. I love building full-stack web applications, designing computer network systems, and tinkering with hardware. Currently, I am an **Engineering Intern** at **PT. Pharos Indonesia** (NPD Pharmalogic Department).
+I am a 6th-semester Computer Engineering student with a strong passion for **Software Engineering**, **IoT/Embedded Systems**, and **Network/Cybersecurity Infrastructure**. I love building full-stack web applications, designing computer network systems, and tinkering with hardware.
 
 ---
 
