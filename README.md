@@ -1,90 +1,84 @@
-# Hi there, I'm Fathan Yazid Satriani! 👋
-## But you can call me Ifan! 😊
+<div align="center">
 
-### 👨‍💻 Computer Engineering Student @ Universitas Indonesia
-I am a 6th-semester Computer Engineering student with a strong passion for **Software Engineering**, **IoT/Embedded Systems**, and **Network/Cybersecurity Infrastructure**. I love building full-stack web applications, designing computer network systems, and tinkering with hardware.
+# Fathan Yazid Satriani
 
----
+### 4th-Year Computer Engineering Student at Universitas Indonesia
 
-### 🛠️ Tech Stack
+**5G Networks & Cybersecurity Research Intern at BMW Lab, NTUST**
 
-<table>
-  <tr>
-    <td width="150px"><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="150px"><b>Frameworks</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-      <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white" />
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-      <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="150px"><b>Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="150px"><b>Hardware</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-      <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td width="150px"><b>Other Tools & Design</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
-      <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-    </td>
-  </tr>
-</table>
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=vercel&logoColor=000000)](https://fathanyazidsatriani.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fathanyazidsatriani/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fathanyazidsatriani@gmail.com)
+[![CV](https://img.shields.io/badge/View_CV-39FF14?style=for-the-badge&logo=readthedocs&logoColor=000000)](https://fathanyazidsatriani.vercel.app/CV.pdf)
 
----
+</div>
 
-### 📊 GitHub Stats
+## About Me
+
+Hi, I'm **Ifan**, a computer engineering student building across **software, AI, and embedded systems**.
+
+- Currently researching **O-RAN and 5G/B5G network security** at BMW Lab, National Taiwan University of Science and Technology, through the TEEP Program.
+- Building and validating PRACH attack detection and mitigation workflows using **OpenAirInterface, USRP B210, OSC SMO, FlexRIC, and NVIDIA Aerial**.
+- Previously worked as an **AI, Mechatronics & Full-Stack Software Intern at PT. Pharos Indonesia**, developing computer-vision quality-control and pharmaceutical production systems.
+- Interested in dependable systems where software meets hardware: networking, cybersecurity, computer vision, IoT, and real-time applications.
+
+## Selected Work
+
+| Project | What I Built | Core Stack |
+| --- | --- | --- |
+| **O.A.S.I.S.** | Portable off-grid water purification system for post-disaster use, with adaptive sanitation and drinking-water routing. | ESP32, IoT, Power Electronics, RO Filtration |
+| **Autoreject Blister** | Pharmaceutical blister inspection and rejection system with editable vision pipelines, production counters, and hardware control. | Python, PyQt5, OpenCV, YOLO, Arduino |
+| **QR-BPOM Production Scan** | Production scanning workflow for UnitBox and MasterBox tracking, live device events, validation, and monitoring. | Next.js, Go, PostgreSQL, WebSocket |
+| [**WikiScrolls**](https://github.com/WikiScrolls) | Educational platform that turns Wikipedia articles into short-form audiovisual content. | Flutter, Go, Neo4j, Docker, LLM |
+| [**Akpro IME Web**](https://www.akproime.com/) | Centralized academic resource hub for engineering students at Universitas Indonesia. | Astro, TypeScript, Figma |
+
+More projects are available on my [portfolio](https://fathanyazidsatriani.vercel.app/#projects).
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![VHDL](https://img.shields.io/badge/VHDL-555555?style=flat-square)
+![AVR Assembly](https://img.shields.io/badge/AVR_Assembly-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+**AI, Web & Data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+
+**Systems, Networks & Hardware**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![O-RAN](https://img.shields.io/badge/O--RAN-00B8D9?style=flat-square)
+![OpenAirInterface](https://img.shields.io/badge/OpenAirInterface-0066CC?style=flat-square)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-2F6F3E?style=flat-square)
+
+## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IfanFYS&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
-  <br/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=IfanFYS&theme=radical&no-frame=true&margin-w=15&row=1" alt="trophies" />
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IfanFYS&theme=radical&hide_border=true)
+
 </div>
 
 ---
 
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fathanyazidsatriani/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fathanyazidsatriani@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/fathanyazid_s)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ifandoodles)
-[![Line](https://img.shields.io/badge/Line-%2300C300.svg?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/ifan_satriani)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281398696033)
+<div align="center">
+  <sub>Jakarta, Indonesia / Taipei, Taiwan</sub>
+</div>
