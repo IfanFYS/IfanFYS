@@ -2,7 +2,7 @@
 ## But you can call me Ifan! 😊
 
 ### 👨‍💻 Computer Engineering Student @ Universitas Indonesia
-I am a 4th-year Computer Engineering student building across **Software Engineering**, **AI/Computer Vision**, **IoT/Embedded Systems**, and **Network/Cybersecurity Infrastructure**. I am currently researching **O-RAN and 5G/B5G network security** at BMW Lab, NTUST through the TEEP Program. Previously, I completed an AI, mechatronics, and full-stack software internship at PT. Pharos Indonesia, where I developed computer-vision quality-control and pharmaceutical production systems.
+I am a 4th-year Computer Engineering student building across **Software Engineering**, **AI/Computer Vision**, **IoT/Embedded Systems**, and **Network/Cybersecurity Infrastructure**. Recently, I finished my research on **O-RAN and 5G/B5G network security** at BMW Lab, NTUST through the TEEP Program. Previously, I completed an AI, mechatronics, and full-stack software internship at PT. Pharos Indonesia, where I developed computer-vision quality-control and pharmaceutical production systems.
 
 ---
 
